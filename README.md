@@ -1,4 +1,4 @@
-<img width="567" height="462" alt="image" src="https://github.com/user-attachments/assets/9d581d80-2c72-476a-ae9d-2392589ffe14" />#🚀 Supervised ML & Algorithms Repository
+#🚀 Supervised ML & Algorithms Repository
 
 Welcome to Supervised ML — a curated machine learning repository showcasing core supervised learning algorithms, NLP techniques, and similarity models used in real-world applications.
 
