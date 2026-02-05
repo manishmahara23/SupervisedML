@@ -19,7 +19,6 @@ To build strong practical understanding of machine learning algorithms and their
 
 ### 📊 Logistic Regression
 
-::contentReference[oaicite:0]{index=0}
 
 - Binary & multi-class classification  
 - Sigmoid function and decision boundary  
@@ -30,7 +29,6 @@ To build strong practical understanding of machine learning algorithms and their
 
 ### ⚙️ Support Vector Machine (SVM)
 
-::contentReference[oaicite:1]{index=1}
 
 - Linear & kernel-based SVM  
 - Hyperplane and margin maximization  
@@ -41,7 +39,6 @@ To build strong practical understanding of machine learning algorithms and their
 
 ### 🌳 Decision Tree Classifier
 
-::contentReference[oaicite:2]{index=2}
 
 - Tree-based classification  
 - Entropy & Information Gain  
@@ -52,7 +49,6 @@ To build strong practical understanding of machine learning algorithms and their
 
 ### ⚡ XGBoost Classifier
 
-::contentReference[oaicite:3]{index=3}
 
 - Gradient boosting framework  
 - High-performance classification  
@@ -63,7 +59,6 @@ To build strong practical understanding of machine learning algorithms and their
 
 ### 📐 Cosine Similarity
 
-::contentReference[oaicite:4]{index=4}
 
 - Text similarity measurement  
 - Vector-based comparison  
@@ -74,7 +69,6 @@ To build strong practical understanding of machine learning algorithms and their
 
 ### 📝 NLP in Machine Learning
 
-::contentReference[oaicite:5]{index=5}
 
 - Text preprocessing (tokenization, stopword removal)  
 - Bag of Words & TF-IDF  
