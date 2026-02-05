@@ -1,104 +1,101 @@
-#🚀 Supervised ML & Algorithms Repository
+# 🚀 Supervised ML Repository
 
-Welcome to Supervised ML — a curated machine learning repository showcasing core supervised learning algorithms, NLP techniques, and similarity models used in real-world applications.
+Welcome to **Supervised ML** — a curated machine learning repository showcasing core supervised learning algorithms, NLP techniques, and similarity models used in real-world applications.
 
-This repository demonstrates strong foundations in machine learning, classification models, and NLP, making it ideal for recruiters and developers exploring practical ML implementations.
+This repository demonstrates strong foundations in **machine learning, classification models, and NLP**, making it ideal for recruiters and developers exploring practical ML implementations.
 
-#📌 Projects Overview
+---
 
-This repository contains implementations of popular supervised machine learning algorithms, NLP and similarity-based models.
+## 📌 Project Overview
+This repository contains implementations of popular supervised machine learning algorithms along with NLP and similarity-based models.  
 All models are implemented with clean code, proper preprocessing, and evaluation techniques.
 
-Goal:
+**Goal:**  
 To build strong practical understanding of machine learning algorithms and their real-world applications in prediction, classification, and text analysis.
 
-#🧠 Algorithms & Concepts Implemented
+---
 
-#📊 Logistic Regression
+## 🧠 Algorithms & Concepts Implemented
 
-Binary & multi-class classification
+### 📊 Logistic Regression
 
-Sigmoid function and decision boundary
+::contentReference[oaicite:0]{index=0}
 
-Model training and evaluation
+- Binary & multi-class classification  
+- Sigmoid function and decision boundary  
+- Model training and evaluation  
+- Accuracy, precision, recall metrics  
 
-Accuracy, precision, recall metrics
+---
 
+### ⚙️ Support Vector Machine (SVM)
 
-#⚙️ Support Vector Machine (SVM)
+::contentReference[oaicite:1]{index=1}
 
-Linear & kernel-based SVM
+- Linear & kernel-based SVM  
+- Hyperplane and margin maximization  
+- Kernel trick implementation  
+- High-dimensional classification  
 
-Hyperplane and margin maximization
+---
 
-Kernel trick implementation
+### 🌳 Decision Tree Classifier
 
-High-dimensional classification
+::contentReference[oaicite:2]{index=2}
 
+- Tree-based classification  
+- Entropy & Information Gain  
+- Overfitting and pruning concepts  
+- Visualized tree structure  
 
-#🌳 Decision Tree Classifier
+---
 
-Tree-based classification
+### ⚡ XGBoost Classifier
 
-Entropy & Information Gain
+::contentReference[oaicite:3]{index=3}
 
-Overfitting and pruning concepts
+- Gradient boosting framework  
+- High-performance classification  
+- Feature importance visualization  
+- Real-world dataset usage  
 
-Visualized tree structure
+---
 
+### 📐 Cosine Similarity
 
-#⚡ XGBoost Classifier
+::contentReference[oaicite:4]{index=4}
 
-Gradient boosting framework
+- Text similarity measurement  
+- Vector-based comparison  
+- Recommendation & search use cases  
+- NLP-based similarity detection  
 
-High-performance classification
+---
 
-Feature importance visualization
+### 📝 NLP in Machine Learning
 
-Real-world dataset usage
+::contentReference[oaicite:5]{index=5}
 
+- Text preprocessing (tokenization, stopword removal)  
+- Bag of Words & TF-IDF  
+- Text classification models  
+- Real-world NLP use cases  
 
-#📐 Cosine Similarity
+---
 
-Text similarity measurement
+## 🛠️ Tech Stack
+- **Language:** Python 🐍  
+- **Libraries:**  
+  - Scikit-learn  
+  - Pandas  
+  - NumPy  
+  - Matplotlib / Seaborn  
+  - XGBoost  
+- **Tools:** Jupyter Notebook, VS Code  
 
-Vector-based comparison
+---
 
-Recommendation & search use cases
-
-NLP-based similarity detection
-
-
-#📝 NLP in Machine Learning
-
-Text preprocessing (tokenization, stopword removal)
-
-Bag of Words & TF-IDF
-
-Text classification models
-
-Real-world NLP use cases
-
-
-#🛠️ Tech Stack
-
-Language: Python 🐍
-
-Libraries:
-
-Scikit-learn
-
-Pandas
-
-NumPy
-
-Matplotlib / Seaborn
-
-XGBoost
-
-Tools: Jupyter Notebook/ Google Colab.
-
-# 🎯 Key Highlights
+## 🎯 Key Highlights
 ✔ Strong understanding of supervised ML algorithms
 ✔ Hands-on implementation of classification models
 ✔ NLP & similarity-based systems
