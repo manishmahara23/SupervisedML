@@ -1,4 +1,4 @@
-# 🚀 Supervised ML Repository
+#  Supervised ML Repository
 
 Welcome to **Supervised ML** — a curated machine learning repository showcasing core supervised learning algorithms, NLP techniques, and similarity models used in real-world applications.
 
@@ -6,7 +6,7 @@ This repository demonstrates strong foundations in **machine learning, classific
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 This repository contains implementations of popular supervised machine learning algorithms along with NLP and similarity-based models.  
 All models are implemented with clean code, proper preprocessing, and evaluation techniques.
 
@@ -15,9 +15,9 @@ To build strong practical understanding of machine learning algorithms and their
 
 ---
 
-## 🧠 Algorithms & Concepts Implemented
+##  Algorithms & Concepts Implemented
 
-### 📊 Logistic Regression
+###  Logistic Regression
 
 
 - Binary & multi-class classification  
@@ -27,7 +27,7 @@ To build strong practical understanding of machine learning algorithms and their
 
 ---
 
-### ⚙️ Support Vector Machine (SVM)
+###  Support Vector Machine (SVM)
 
 
 - Linear & kernel-based SVM  
@@ -37,7 +37,7 @@ To build strong practical understanding of machine learning algorithms and their
 
 ---
 
-### 🌳 Decision Tree Classifier
+###  Decision Tree Classifier
 
 
 - Tree-based classification  
@@ -47,7 +47,7 @@ To build strong practical understanding of machine learning algorithms and their
 
 ---
 
-### ⚡ XGBoost Classifier
+### XGBoost Classifier
 
 
 - Gradient boosting framework  
@@ -57,7 +57,7 @@ To build strong practical understanding of machine learning algorithms and their
 
 ---
 
-### 📐 Cosine Similarity
+###  Cosine Similarity
 
 
 - Text similarity measurement  
@@ -67,7 +67,7 @@ To build strong practical understanding of machine learning algorithms and their
 
 ---
 
-### 📝 NLP in Machine Learning
+###  NLP in Machine Learning
 
 
 - Text preprocessing (tokenization, stopword removal)  
@@ -77,8 +77,8 @@ To build strong practical understanding of machine learning algorithms and their
 
 ---
 
-## 🛠️ Tech Stack
-- **Language:** Python 🐍  
+##  Tech Stack
+- **Language:** Python   
 - **Libraries:**  
   - Scikit-learn  
   - Pandas  
@@ -89,7 +89,7 @@ To build strong practical understanding of machine learning algorithms and their
 
 ---
 
-## 🎯 Key Highlights
+##  Key Highlights
 ✔ Strong understanding of supervised ML algorithms
 ✔ Hands-on implementation of classification models
 ✔ NLP & similarity-based systems
